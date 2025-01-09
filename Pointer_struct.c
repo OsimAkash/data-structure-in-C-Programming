@@ -11,7 +11,7 @@ struct Student {
 
 int main()
 {
-
+ 
 	struct Student s1;
 	struct Student* ptr = &s1;
 
