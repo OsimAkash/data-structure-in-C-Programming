@@ -6,7 +6,7 @@ struct Student {
 	int roll_no;
 	char name[30];
 	char branch[40];
-	int batch;
+	int batch; 
 };
 
 int main()
